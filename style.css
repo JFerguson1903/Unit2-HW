@@ -30,10 +30,22 @@ section h1 {
     max-width: 200px;
 }
 
+
+/* card title on Portfolio */
+
+.card-title {
+    font-family: 'IM Fell DW Pica SC', serif;
+}
+
+
+/* buttons on cards in Portfolio */
+
 .btn-primary {
     border-color: teal;
     background-color: turquoise;
     color: black;
+    font-family: 'IM Fell DW Pica SC', serif;
+    font-size: larger;
 }
 
 .btn-primary:hover {
@@ -41,6 +53,9 @@ section h1 {
     background-color: lightgrey;
     color: black;
 }
+
+
+/* footer carries through on all pages */
 
 footer {
     background-color: darkgrey;
