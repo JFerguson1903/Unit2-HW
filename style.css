@@ -11,10 +11,13 @@ header {
 .navbar-brand {
     background-color: turquoise;
     font-size: x-large;
+    padding-right: 1rem;
+    padding-left: 1rem;
 }
 
 section {
     background-color: white;
+    border: lightgrey 2px solid;
 }
 
 section h1 {
