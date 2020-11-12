@@ -30,6 +30,18 @@ section h1 {
     max-width: 200px;
 }
 
+.btn-primary {
+    border-color: teal;
+    background-color: turquoise;
+    color: black;
+}
+
+.btn-primary:hover {
+    border-color: darkgrey;
+    background-color: lightgrey;
+    color: black;
+}
+
 footer {
     background-color: darkgrey;
     border-top: turquoise 8px solid;
