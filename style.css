@@ -3,19 +3,32 @@ body {
     background-repeat: repeat;
 }
 
-.navbar-brand {
-    background-color: turquoise;
+header {
+    font-family: 'IM Fell DW Pica SC', serif;
+    font-size: larger;
 }
 
-.col-8 {
+.navbar-brand {
+    background-color: turquoise;
+    font-size: x-large;
+}
+
+section {
     background-color: white;
 }
 
-.col-8 h1 {
-    color: turquoise;
+section h1 {
     border-bottom: grey 1px solid;
+    color: turquoise;
+    font-family: 'IM Fell DW Pica SC', serif;
+}
+
+#about-me-img {
+    max-width: 200px;
 }
 
 footer {
     background-color: darkgrey;
+    border-top: turquoise 8px solid;
+    color: lightgrey;
 }
