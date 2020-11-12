@@ -12,4 +12,5 @@ body {
 
 .col-8 h1 {
     color: turquoise;
+    border-bottom: grey 1px solid;
 }
