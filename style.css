@@ -1,5 +1,6 @@
 body {
-    background-color: black;
+    background-image: url(./Images/wood_background.jpg);
+    background-repeat: repeat;
 }
 
 .navbar-brand {
