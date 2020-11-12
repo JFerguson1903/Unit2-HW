@@ -1,3 +1,5 @@
+/* Used throught site pages */
+
 body {
     background-image: url(./Images/wood_background.jpg);
     background-repeat: repeat;
@@ -26,6 +28,9 @@ section h1 {
     font-family: 'IM Fell DW Pica SC', serif;
 }
 
+
+/* Image on About Me page */
+
 #about-me-img {
     max-width: 200px;
 }
@@ -47,6 +52,9 @@ section h1 {
     font-family: 'IM Fell DW Pica SC', serif;
     font-size: larger;
 }
+
+
+/* button when hovering on cards in Portfolio */
 
 .btn-primary:hover {
     border-color: darkgrey;
