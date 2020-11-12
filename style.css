@@ -15,3 +15,7 @@ body {
     color: turquoise;
     border-bottom: grey 1px solid;
 }
+
+footer {
+    background-color: darkgrey;
+}
