@@ -3,6 +3,8 @@
 body {
     background-image: url(./Images/wood_background.jpg);
     background-repeat: repeat;
+    /* adds spacing to account for sticky footer */
+    margin-bottom: 200px;
 }
 
 header {
