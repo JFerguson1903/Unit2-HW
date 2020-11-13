@@ -70,3 +70,7 @@ footer {
     border-top: turquoise 8px solid;
     color: lightgrey;
 }
+
+footer img {
+    max-width: 70px;
+}
