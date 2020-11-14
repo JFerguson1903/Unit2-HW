@@ -1,4 +1,4 @@
-/* Used throught site pages */
+/* Used throughout site pages */
 
 body {
     background-image: url(./Images/wood_background.jpg);
@@ -17,6 +17,16 @@ header {
     font-size: x-large;
     padding-right: 1rem;
     padding-left: 1rem;
+}
+
+
+/* hover state brand name & site buttons */
+
+.navbar-brand:hover,
+.btn-primary:hover {
+    border-color: darkgrey;
+    background-color: lightgrey;
+    color: black;
 }
 
 section {
@@ -45,7 +55,7 @@ section h1 {
 }
 
 
-/* buttons on cards in Portfolio */
+/* button styling */
 
 .btn-primary {
     border-color: teal;
@@ -53,15 +63,6 @@ section h1 {
     color: black;
     font-family: 'IM Fell DW Pica SC', serif;
     font-size: larger;
-}
-
-
-/* button when hovering on cards in Portfolio */
-
-.btn-primary:hover {
-    border-color: darkgrey;
-    background-color: lightgrey;
-    color: black;
 }
 
 
