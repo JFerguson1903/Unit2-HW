@@ -13,8 +13,7 @@ This site was created using Bootstraps CSS Framework for a mobile responsive por
 - Each page must have valid and correct HTML. (use a validation service)
 - Must contain your personalized information. (bio, name, images, links to social media, etc.)
 - Must properly utilize Bootstrap components and grid system.
-BONUS
-- Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your portfolio site.
+- (BONUS) Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your portfolio site.
 
 ## Usage
 
@@ -30,7 +29,7 @@ BONUS
 
 * https://depositphotos.com/ - background image
 
-## Licencse
+## License
 
 Boost Software License - Version 1.0 - August 17th, 2003
 
@@ -61,5 +60,6 @@ DEALINGS IN THE SOFTWARE.
 The site was tested with the following for mobile responsiveness with positive results:
 
 * Chrome
+* Firefox
 * iPhone XS Max
 * Samsung Galaxy S10+
