@@ -20,11 +20,9 @@ header {
 }
 
 
-/* hover state brand name & site buttons */
+/* hover state brand name */
 
-.navbar-brand:hover,
-.btn-primary:hover {
-    border-color: darkgrey;
+.navbar-brand:hover {
     background-color: lightgrey;
     color: black;
 }
@@ -63,6 +61,15 @@ section h1 {
     color: black;
     font-family: 'IM Fell DW Pica SC', serif;
     font-size: larger;
+}
+
+
+/* button styling hover state */
+
+.btn-primary:hover {
+    border-color: darkgrey;
+    background-color: lightgrey;
+    color: black;
 }
 
 
